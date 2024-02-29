@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/nextjs-tailwind-ionic-capacitor-starter
 report_id: b2347c3e5c781abd20e83a26b7d469ee
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:11:40+00:00'
+timestamp: '2024-02-29T19:23:02+00:00'
 requested_by: mlynch
 provider: github
 branch: main
@@ -52,7 +52,7 @@ tools:
   detection_source_url: https://github.com/AlexcastroDev/nextjs-tailwind-ionic-capacitor-starter
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -101,7 +101,7 @@ tools:
   last_updated_by: Leo Giovanetti
   last_updated_on: 2021-06-17 21:16:54.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.2.0
   open_source: true
@@ -230,7 +230,7 @@ tools:
   last_updated_by: Max Lynch
   last_updated_on: 2021-01-14 01:01:01.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.2.1
   license: MIT
